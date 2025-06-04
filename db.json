@@ -1,0 +1,30 @@
+{
+  "usuarios": [
+    {
+      "id": "18c3",
+      "nome": "Guilherme Cavalini Lopes",
+      "renda": "5000",
+      "orcamentoDiario": 216.66666666666666
+    }
+  ],
+  "transacoes": [
+    {
+      "id": "4c2c",
+      "nome": "Invetimento",
+      "valor": 100,
+      "tipo": "receita",
+      "categoria": "Investimentos",
+      "data": "2025-06-03",
+      "userId": "18c3"
+    },
+    {
+      "id": "a219",
+      "nome": "Comida",
+      "valor": 50,
+      "tipo": "despesa",
+      "categoria": "Comida",
+      "data": "2005-07-01",
+      "userId": "18c3"
+    }
+  ]
+}
